@@ -1,0 +1,12 @@
+{
+  "site": {
+    "name": "Gin (Git-integrated) CMS",
+    "tagline": "Your content, under control.",
+    "description": "Database-free, Git-integrated CMS . Git-intergrated. Gin CMS!\r\n\r\nStay committed.\r\n\r\nPush on, pusher.\r\n\r\nYou've pulled ;-)",
+    "url": "http://gin.dev",
+    "theme": "whitepaper"
+  },
+  "git": {
+    "repo": "gincms/HJITJZhTx"
+  }
+}
