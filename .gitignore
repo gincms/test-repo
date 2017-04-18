@@ -1,0 +1,7 @@
+tmp
+node_modules
+content
+projects
+.ssh
+*.sw[a-z]
+.DS_Store
