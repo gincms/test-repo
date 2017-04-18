@@ -4,11 +4,11 @@
   "slug": "index",
   "section": "",
   "url": "/",
-  "body": "## Git in\r\nGin is a Git-integrated CMS. It keeps *everything* under version-control, meaning that you can *rewind* to any moment in the existence of your content — or configuration — at will. It's like being able to travel through time.  When using Gin, **you basically have superpowers**.\r\n\r\nAwesome. \r\n\r\n## Get started\r\n\r\n### Login\r\nTo start using Gin, you need to go to the CMS [login via GithHub](/gin/). If you're not signed in and don't have an account, you'll be given the opportunity to create one. \r\n\r\n### Create a project\r\nOnce logged in, you'll be able to create a new *project*. Projects contain all your content, as well as all your Gin CMS settings.\r\n\r\nAll changes in Gin are tracked *locally* within the context of your project. You can then *sync* your project — in other words, back-up your latest changes to the cloud — whenever you want. All you need is an internet connection.\r\n\r\nThis means that **almost all work in Gin can be done offline**. You only require an internet connection for three actions: login (which only has to be done *once*), creating projects, and syncing.\r\n\r\nMind. Blown.\r\n",
+  "body": "## Git in\r\nGin is a Git-integrated CMS. It keeps *everything* under version-control, meaning that you can *rewind* to any moment in the existence of your content — or configuration — at will. It's like being able to travel through time.  When using Gin, **you basically have superpowers**.\r\n\r\nAwesome. \r\n\r\n## Get started\r\n\r\n### Login\r\nTo start using Gin, you need to go to the CMS [login via GithHub](/gin/). If you're not signed in and don't have an account, you'll be given the opportunity to create one. \r\n\r\n### Create a project\r\nOnce logged in, you'll be able to create a new *project*. Projects contain all your content, as well as all your Gin CMS settings.\r\n\r\nAll changes in Gin are tracked *locally* within the context of your project. You can then *sync* your project — in other words, back-up your latest changes to the cloud — whenever you want. All you need is an internet connection.\r\n\r\nThis means that **almost all work in Gin can be done offline**. You only require an internet connection for three actions: login (which only has to be done *once*), creating projects, and syncing.\r\n\r\nMind. *Blown*.\r\n",
   "summary": "A brief introduction to Gin.",
   "blog": "1",
   "created": "2017-04-18T12:52:59.645Z",
-  "updated": "2017-04-18T12:53:28.990Z",
+  "updated": "2017-04-18T13:05:22.459Z",
   "published": "2017-04-18T12:53:28.990Z",
   "contentType": "page",
   "id": "B14E3Y7Re"
