@@ -1,0 +1,18 @@
+{
+  "title": "Content types",
+  "subtitle": "",
+  "slug": "types",
+  "section": "content",
+  "url": "/content/types/",
+  "body": "The default content type in Gin is the *Page*. It can be used for both static pages and blog posts. To create a new *page*:\r\n\r\n1. Click `Content Types`\r\n2. Click `Add page` under the *Page*\r\n\r\nAlternatively, from the *Page list*, you can click the *Add a page* button.\r\n\r\n### Page input form\r\n\r\nThe input form it pretty straightforward if you've used a CMS before, but there are a couple of things to, so below are all the fields you'll find, along with a brief explanation of what they're for and how they work.\r\n\r\n#### Title\r\nPut the main title of your content here. A URL is automatically generated which is derived partly from the title field.\r\n\r\n#### Subtitle\r\n",
+  "featured-image": {
+    "src": ""
+  },
+  "summary": "",
+  "blog": "1",
+  "created": "2017-05-22T16:23:33.329Z",
+  "updated": "",
+  "published": "",
+  "contentType": "page",
+  "id": "S1aFgcg-b"
+}
