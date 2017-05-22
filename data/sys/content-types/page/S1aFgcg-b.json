@@ -4,14 +4,14 @@
   "slug": "types",
   "section": "content",
   "url": "/content/types/",
-  "body": "The default content type in Gin is the *Page*. It can be used for both static pages and blog posts. To create a new *page*:\r\n\r\n1. Click `Content Types`\r\n2. Click `Add page` under the *Page*\r\n\r\nAlternatively, from the *Page list*, you can click the *Add a page* button.\r\n\r\n### Page input form\r\n\r\nThe input form it pretty straightforward if you've used a CMS before, but there are a couple of things to, so below are all the fields you'll find, along with a brief explanation of what they're for and how they work.\r\n\r\n#### Title\r\nPut the main title of your content here. A URL is automatically generated which is derived partly from the title field.\r\n\r\n#### Subtitle\r\n",
+  "body": "The default content type in Gin is the *Page*. It can be used for both static pages and blog posts. To create a new *page*:\r\n\r\n1. Click `Content Types`\r\n2. Click `Add page` under the *Page*\r\n\r\nAlternatively, from the *Page list*, you can click the *Add a page* button.\r\n\r\n### Page input form\r\n\r\nThe input form it pretty straightforward if you've used a CMS before, but there are a couple of things to, so below are all the fields you'll find, along with a brief explanation of what they're for and how they work.\r\n\r\n#### Title\r\n*Required:* Put the main title of your content here. A URL is automatically generated which is derived partly from the title field.\r\n\r\n#### Subtitle\r\n*Optional:* You can add a subtitle to your content.\r\n\r\n#### Slug\r\n*Required:* This is the location of the content you're editing, *relative to the root of your website*. When you enter a title, the slug is automatically populated, but you can update it to anything you like (within reason), as long as the *[constructed URL](#constructed-url)* isn't already in use.\r\n\r\n#### Site section\r\n*Optional:* This field allows you to choose where on your site the currently edited content will live. The *site section* is the other factor contributing to the final *[constructed URL](#constructed-url)*. If this field is left blank, the content will live directly off the root of your website (e.g. www.mysite.com/this-is-my-content/). If you fill in the field, your content will live within the path you've added (e.g. www.mysite.com/my-special-section/this-is-my-content/).\r\n\r\n#### Constructed URL\r\n*Read-only:* This field shows you the URL your content will use once it is published. It automatically generated and cannot be edited. The only way to change the constructed URL is to change the [slug](#slug) and [site section](#site-section), as outlined above.",
   "featured-image": {
     "src": ""
   },
   "summary": "",
   "blog": "1",
   "created": "2017-05-22T16:23:33.329Z",
-  "updated": "2017-05-22T16:34:01.865Z",
+  "updated": "2017-05-22T16:52:04.796Z",
   "published": "",
   "contentType": "page",
   "id": "S1aFgcg-b"
