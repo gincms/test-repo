@@ -1,1 +1,17 @@
-{"title":"This is some content","subtitle":"This is a subtitle change","slug":"this-is-some-content","section":"","url":"/this-is-some-content/","body":"This is _strictly_ **markdown**.  Let's `keep` it:\r\n\r\n\tthat way!\r\n\r\nMarkdown. Killing it.\r\n\r\n> ffs\r\n\r\nNailed?\r\n\r\n> Everything should remain where we left it (but the content has been modified).\r\n","summary":"This is a summary, extended.","created":"2017-04-04T23:04:12.754Z","updated":"2017-04-06T14:48:28.208Z","published":"2017-04-04T23:40:37.959Z","contentType":"page","id":"B1ruIsWax"}
+{
+  "title": "This is some content",
+  "subtitle": "This is a subtitle change",
+  "slug": "this-is-some-content",
+  "section": "",
+  "url": "/this-is-some-content/",
+  "body": "This is _strictly_ **markdown**.  Let's `keep` it:\r\n\r\n\tthat way!\r\n\r\nMarkdown. Killing it.\r\n\r\n> ffs\r\n\r\nNailed?\r\n\r\n> Everything should remain where we left it (but the content has been modified).\r\n",
+  "featured-image": {
+    "src": ""
+  },
+  "summary": "This is a summary, extended.",
+  "created": "2017-04-04T23:04:12.754Z",
+  "updated": "2017-05-22T15:16:03.170Z",
+  "published": "2017-04-04T23:40:37.959Z",
+  "contentType": "page",
+  "id": "B1ruIsWax"
+}
