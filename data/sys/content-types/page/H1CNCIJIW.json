@@ -4,14 +4,14 @@
   "slug": "editor",
   "section": "content",
   "url": "/content/editor/",
-  "body": "This is a test",
+  "body": "This is a test {{}}",
   "featured-image": {
     "src": ""
   },
   "summary": "",
   "blog": "1",
   "created": "2017-07-21T10:57:57.786Z",
-  "updated": "2017-07-21T12:10:18.231Z",
+  "updated": "2017-07-21T12:16:19.206Z",
   "published": "2017-07-21T12:10:18.231Z",
   "contentType": "page",
   "id": "H1CNCIJIW"
