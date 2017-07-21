@@ -1,9 +1,9 @@
 {
   "title": "Editor (Delete-me)",
   "subtitle": "",
-  "slug": "editor",
+  "slug": "editor-dud",
   "section": "content",
-  "url": "/content/editor/",
+  "url": "/content/editor-dud/",
   "body": "This is a test {{}}",
   "featured-image": {
     "src": ""
@@ -11,7 +11,7 @@
   "summary": "",
   "blog": "1",
   "created": "2017-07-21T10:57:57.786Z",
-  "updated": "2017-07-21T12:45:28.367Z",
+  "updated": "2017-07-21T12:56:41.743Z",
   "published": "2017-07-21T12:45:28.367Z",
   "contentType": "page",
   "id": "H1CNCIJIW"
