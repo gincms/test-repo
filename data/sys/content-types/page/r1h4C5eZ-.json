@@ -4,14 +4,14 @@
   "slug": "editor",
   "section": "content",
   "url": "/content/editor/",
-  "body": "The editor in *Gin* supports [Markdown](https://en.wikipedia.org/wiki/Markdown). If you click the `?` in the toolbar, you'll be taken to a Markdown cheatsheet that provides simple examples of how to use the markup.",
+  "body": "The editor in *Gin* supports [Markdown](/content/markdown/). If you click the `?` in the toolbar, you'll be taken to a Markdown cheatsheet that provides simple examples of how to use the markup.",
   "featured-image": {
     "src": ""
   },
   "summary": "",
   "blog": "1",
   "created": "2017-05-22T17:21:56.003Z",
-  "updated": "2017-05-22T17:40:57.566Z",
+  "updated": "2017-07-21T12:57:35.172Z",
   "published": "",
   "contentType": "page",
   "id": "r1h4C5eZ-"
