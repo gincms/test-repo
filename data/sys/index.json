@@ -1,14 +1,12 @@
 {
   "B14E3Y7Re": {
-    "type": "page",
+    "id": "B14E3Y7Re",
+    "title": "Welcome to Gin",
     "url": "/"
   },
   "S1aFgcg-b": {
-    "type": "page",
+    "id": "S1aFgcg-b",
+    "title": "Posts and pages",
     "url": "/content/posts-pages/"
-  },
-  "r1h4C5eZ-": {
-    "type": "page",
-    "url": "/content/editor/"
   }
 }

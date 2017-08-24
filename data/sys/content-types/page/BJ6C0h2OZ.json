@@ -1,0 +1,18 @@
+{
+  "title": "Content",
+  "subtitle": "",
+  "slug": "content",
+  "section": "",
+  "url": "/content/",
+  "body": "{{list type=page match=/content/}}",
+  "featured-image": {
+    "src": ""
+  },
+  "summary": "",
+  "blog": "1",
+  "created": "2017-08-24T21:02:12.716Z",
+  "updated": "",
+  "published": "",
+  "contentType": "page",
+  "id": "BJ6C0h2OZ"
+}
