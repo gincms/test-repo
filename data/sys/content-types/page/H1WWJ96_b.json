@@ -4,14 +4,14 @@
   "slug": "markdown",
   "section": "content",
   "url": "/content/markdown/",
-  "body": "Markdown allows you to format text using a very simple syntax. The Markdown formatted text is only converted to HTML once it's necessary to display it. Below is a quick guide to using Markdown to create your content.\r\n\r\n## Markdown basics\r\n### Emphasis\r\n\r\n#### Headers\r\n```\r\n# h1\r\n## h2\r\n### h3\r\n#### h4\r\n##### h5\r\n###### h6\r\n```\r\n# h1\r\n## h2\r\n### h3\r\n#### h4\r\n##### h5\r\n###### h6\r\n\r\n#### _italics_\r\n`_italics_ or *italics*`\r\n\r\n#### **Bold**\r\n`**bold**`\r\n\r\n",
+  "body": "Markdown allows you to format text using a very simple syntax. The Markdown formatted text is only converted to HTML once it's necessary to display it. Below is a quick guide to using Markdown to create your content.\r\n\r\n## Markdown basics\r\n\r\n\r\n### Headers\r\n# h1\r\n`# h1`\r\n## h2\r\n`## h2`\r\n### h3\r\n`### h3`\r\n#### h4\r\n`#### h4`\r\n##### h5\r\n`##### h5`\r\n###### h6\r\n`###### h6`\r\n\r\n### Emphasis\r\n#### _italics_\r\n`_italics_ or *italics*`\r\n\r\n#### **Bold**\r\n`**bold**`\r\n\r\n",
   "featured-image": {
     "src": ""
   },
   "summary": "",
   "blog": "1",
   "created": "2017-08-25T11:50:16.934Z",
-  "updated": "2017-08-25T11:54:30.943Z",
+  "updated": "2017-08-25T11:56:29.551Z",
   "published": "",
   "contentType": "page",
   "id": "H1WWJ96_b"
