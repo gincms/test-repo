@@ -5,7 +5,7 @@
     "description": "Database-free, Git-integrated CMS.\r\n\r\nStay committed.\r\n\r\nPush on, pusher.\r\n\r\nYou've pulled ;-)\r\n\r\nCheckout the master...\r\n\r\nHooked.",
     "url": "https://gincms.com",
     "defaultSection": "",
-    "defaultBlog": "0",
+    "defaultBlog": "1",
     "theme": "gin-whitepaper",
     "gaTrackingId": "UA-105325583-1",
     "head": "",
