@@ -4,14 +4,14 @@
   "slug": "markdown",
   "section": "content",
   "url": "/content/markdown/",
-  "body": "Markdown allows you to format text using a very simple syntax. The Markdown formatted text is only converted to HTML once it's necessary to display it. Below is a quick guide to using Markdown to create your content.\r\n\r\n## Markdown basics\r\n### Emphasis\r\n`Italics`\r\n",
+  "body": "Markdown allows you to format text using a very simple syntax. The Markdown formatted text is only converted to HTML once it's necessary to display it. Below is a quick guide to using Markdown to create your content.\r\n\r\n## Markdown basics\r\n### Emphasis\r\n#### Italics\r\n`_italics_ or *italics*`\r\n_italics_ or *italics*\r\n\r\n#### Bold\r\n`**bold**`\r\n**bold**\r\n",
   "featured-image": {
     "src": ""
   },
   "summary": "",
   "blog": "1",
   "created": "2017-08-25T11:50:16.934Z",
-  "updated": "",
+  "updated": "2017-08-25T11:52:07.878Z",
   "published": "",
   "contentType": "page",
   "id": "H1WWJ96_b"
