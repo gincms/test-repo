@@ -4,14 +4,14 @@
   "slug": "content",
   "section": "",
   "url": "/content/",
-  "body": "{{list count=5 match=/content/}}",
+  "body": "{{list type=page count=5 match=/content/}}",
   "featured-image": {
     "src": ""
   },
   "summary": "",
   "list": "1",
   "created": "2017-08-24T21:02:12.716Z",
-  "updated": "2017-08-25T10:55:54.638Z",
+  "updated": "2017-08-25T10:56:24.485Z",
   "published": "",
   "contentType": "page",
   "id": "BJ6C0h2OZ"
