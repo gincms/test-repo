@@ -4,14 +4,14 @@
   "slug": "markdown",
   "section": "content",
   "url": "/content/markdown/",
-  "body": "Markdown allows you to format text using a very simple syntax. The Markdown formatted text is only converted to HTML once it's necessary to display it. Below is a quick guide to using Markdown to create your content.\r\n\r\n**Note: pay attention to the single space between opening symbols (e.g. \\*,\\#) and text.**\r\n\r\n## Markdown basics\r\n### Headers\r\n# h1–h6\r\n```\r\n# h1\r\n## h2\r\n### h3\r\n#### h4\r\n##### h5\r\n###### h6\r\n```\r\n# h1\r\n## h2\r\n### h3\r\n#### h4\r\n##### h5\r\n###### h6\r\n\r\n### Emphasis\r\n#### _italics_\r\n`_italics_ or *italics*`\r\n\r\n#### **Bold**\r\n`**bold**`\r\n\r\n### Lists\r\n#### Numbered lists\r\n````\r\n* item a\r\n* item b\r\n* item c\r\n```\r\n\r\n#### Unordered lists\r\n```\r\n1. item\r\n2. item\r\n3. item\r\n```",
+  "body": "Markdown allows you to format text using a very simple syntax. The Markdown formatted text is only converted to HTML once it's necessary to display it. Below is a quick guide to using Markdown to create your content.\r\n\r\n**Note: pay attention to the single space between opening symbols (e.g. \\*,\\#) and text.**\r\n\r\n## Markdown basics\r\n### Headers\r\n# h1–h6\r\n```\r\n# h1\r\n## h2\r\n### h3\r\n#### h4\r\n##### h5\r\n###### h6\r\n```\r\n# h1\r\n## h2\r\n### h3\r\n#### h4\r\n##### h5\r\n###### h6\r\n\r\n### Emphasis\r\n#### _italics_\r\n`_italics_ or *italics*`\r\n\r\n#### **Bold**\r\n`**bold**`\r\n\r\n### Lists\r\n#### Numbered lists\r\n````\r\n* item a\r\n* item b\r\n* item c\r\n```\r\n  \r\n\t\r\n#### Unordered lists\r\n```\r\n1. item\r\n2. item\r\n3. item\r\n```",
   "featured-image": {
     "src": ""
   },
   "summary": "",
   "blog": "1",
   "created": "2017-08-25T11:50:16.934Z",
-  "updated": "2017-08-25T12:03:31.858Z",
+  "updated": "2017-08-25T12:03:51.857Z",
   "published": "",
   "contentType": "page",
   "id": "H1WWJ96_b"
