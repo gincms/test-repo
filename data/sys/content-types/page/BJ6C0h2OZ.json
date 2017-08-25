@@ -4,14 +4,14 @@
   "slug": "content",
   "section": "",
   "url": "/content/",
-  "body": "A brief intro to creating content in Gin...\r\n\r\nBuilding blocks, content types, system content types, page.",
+  "body": "A brief intro to creating content in Gin...\r\n\r\nBuilding blocks, content types, system content types, page.\r\n\r\n{{list type=page match=/content/}}",
   "featured-image": {
     "src": ""
   },
   "summary": "",
   "list": "1",
   "created": "2017-08-24T21:02:12.716Z",
-  "updated": "2017-08-25T13:27:21.256Z",
+  "updated": "2017-08-25T22:08:28.664Z",
   "published": "",
   "contentType": "page",
   "id": "BJ6C0h2OZ"
