@@ -4,14 +4,14 @@
   "slug": "content",
   "section": "",
   "url": "/content/",
-  "body": "{{list type=page count=5 match=/content/ blog=0}}",
+  "body": "Summary about creating content.",
   "featured-image": {
     "src": ""
   },
   "summary": "",
   "list": "1",
   "created": "2017-08-24T21:02:12.716Z",
-  "updated": "2017-08-25T11:16:42.227Z",
+  "updated": "2017-08-25T11:32:34.172Z",
   "published": "",
   "contentType": "page",
   "id": "BJ6C0h2OZ"
