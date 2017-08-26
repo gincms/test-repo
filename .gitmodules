@@ -1,4 +1,0 @@
-[submodule "html/gin-data/themes/gin-whitepaper"]
-	path = html/gin-data/themes/gin-whitepaper
-	url = https://github.com/gincms/gin-whitepaper.git
-	branch = master
