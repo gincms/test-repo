@@ -6,7 +6,7 @@
     "url": "https://gincms.com",
     "defaultSection": "",
     "defaultBlog": "0",
-    "theme": "gin-whitepaper",
+    "theme": "gincms/gin-whitepaper",
     "gaTrackingId": "UA-105325583-1",
     "head": "",
     "foot": ""
