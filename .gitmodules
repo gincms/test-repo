@@ -1,0 +1,3 @@
+[submodule "/var/www/gin/projects/gincms/welcome/html/gin-data/themes/gin-whitepaper"]
+	path = /var/www/gin/projects/gincms/welcome/html/gin-data/themes/gin-whitepaper
+	url = https://github.com/gincms/gin-whitepaper.git
