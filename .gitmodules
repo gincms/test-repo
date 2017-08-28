@@ -1,6 +1,3 @@
-[submodule "html/gin-data/themes/gin-whitepaper"]
-	path = html/gin-data/themes/gin-whitepaper
-	url = https://github.com/gincms/gin-whitepaper.git
 [submodule "html/gin-data/themes/gin-tonic"]
 	path = html/gin-data/themes/gin-tonic
 	url = https://github.com/gincms/gin-tonic.git
