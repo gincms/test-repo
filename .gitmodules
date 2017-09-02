@@ -1,3 +1,6 @@
 [submodule "html/gin-data/themes/gin-tonic"]
 	path = html/gin-data/themes/gin-tonic
 	url = https://github.com/gincms/gin-tonic.git
+[submodule "html/gin-data/themes/.repos/gin-ohmytheme"]
+	path = html/gin-data/themes/.repos/gin-ohmytheme
+	url = git@bitbucket.org:ohmynerds/gin-ohmytheme.git

@@ -1,0 +1,11 @@
+
+<footer class="footer has-text-centered">
+  <div class="container">
+    {{ nav("footer") | safe }} 
+  </div>
+</footer>
+{% if content.url === "/login/" %}
+<script src="{{asset('js/main.js')}}"></script>
+{% endif %}
+{{ foot() | safe }}
+
